@@ -8,3 +8,4 @@ Mostly application example for the [SIMATIC IOT2050](http://www.siemens.com/iot2
 [![Mendix](https://img.shields.io/badge/github-mendix-0595db?logo=github)](https://github.com/mendix)
 [![IOT2050](https://img.shields.io/badge/github-iot2050-green?logo=github)](https://github.com/SIMATICmeetsLinux)
 [![Siemens](https://img.shields.io/badge/github-siemens-009999?logo=github)](https://github.com/siemens)
+[![SIMATIC AX](https://img.shields.io/badge/github-simatic%20ax-009977?logo=github)](https://github.com/simatic-ax)
